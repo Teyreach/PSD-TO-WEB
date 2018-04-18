@@ -1,0 +1,199 @@
+body {
+  font-family: 'Lato', sans-serif;
+  margin: 0 auto;
+}
+
+.image-1 {
+  background: url(https://i.imgur.com/eq32ANK.png);
+  background-size: cover;
+  background-position: center;
+}
+
+.image-elipse {
+  display: flex;
+  justify-content: center;
+  padding: 250px 0 0 0;
+}
+
+.working {
+  font-size: 50px;
+  color: #fff;
+  text-align: center;
+  padding: 55px 0 0 0;
+}
+
+p {
+  margin: 0;
+}
+
+.text-center {
+  color: #fff;
+  font-size: 19px;
+  padding: 10px;
+}
+
+.mouse {
+  text-align: center;
+  padding: 250px 0 50px 0;
+}
+
+.about-us, .gallery, .contact-us {
+  margin: 150px 0 150px  0;
+}
+
+.title {
+  font-size: 34px;
+  margin: -25px 0 0 0;
+  background: #fff;
+  display: inline-block;
+  padding: 0 5vw 0 5vw;
+}
+
+.center {
+  text-align: center;
+}
+
+.text-1, .text-2 {
+  text-align: center;
+  margin: 45px 0 50px 0;
+  font-size: 19px;
+  color: #3c3c3c;
+}
+
+.con-1 {
+  border-style: solid;
+}
+
+.services {
+  padding: 0 0 150px 0;
+}
+
+.image-2 {
+  background: url(https://i.imgur.com/Qn0upW9.png);
+  background-size: cover;
+  background-position: center;
+  padding: 120px 0 70px 0;
+}
+
+.title-1 {
+  font-size: 34px;
+  margin: -35px 0 20px 0;
+  padding: 15px 0 0 0;
+  color: #fff;
+  text-align: center;
+  width: 100%;
+}
+
+.text-3 {
+  text-align: center;
+  margin: 45px 0 50px 0;
+  font-size: 19px;
+  color: #fff;
+}
+
+.con-2 {
+  border: 3px #fff solid;
+  border-top: none;
+}
+
+.container-flex {
+  display: flex;
+}
+
+.border-1, .border-2 {
+  border: 3px #fff solid;
+  border-bottom: none;
+  border-right: none;
+  border-left: none;
+  width: 100%;
+}
+
+.padd {
+  padding: 0;
+}
+
+.pic {
+  display: flex;
+  justify-content: center;
+}
+
+.pic-1 {
+  padding: 120px 0 0 0;
+}
+
+.title-4 {
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 20px 0 0 0;
+}
+
+.gallery-1 {
+  position: relative;
+}
+
+.txt {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  font-size: 3vw;
+  color: #fff;
+  margin: 0;
+  padding: 0 0 20px 20px;
+}
+
+.imgy {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  padding: 0 0 10px 0;
+}
+
+.pad, .pad1, .pad2 {
+  padding: 0 10px 10px 0;
+}
+
+.hei {
+  height: 15vw;
+  padding: 0;
+}
+
+.col-lg-3 .col-md-3 .col-sm-3 .col-xs-3 {
+  padding: 0;
+}
+
+.btn-primary {
+  background: #3c3c3c;
+  border-color: #3c3c3c;
+}
+
+.btn-group-lg > .btn, .btn-lg {
+  border-radius: 0;
+  line-height: 2;
+}
+
+.btn-block {
+  width: 325px;
+}
+
+.b1 {
+  display: flex;
+  justify-content: center;
+  padding: 0 0 50px 0;
+}
+
+.foot {
+  display: flex;
+  justify-content: center;
+}
+
+.hei-2 {
+  padding: 0 25px 0 0;
+}
+
+.footer {
+  padding: 0 0 25px 0;
+}
+
+/*# sourceMappingURL=style.css.map */
